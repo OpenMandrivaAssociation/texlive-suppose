@@ -1,6 +1,6 @@
 Name:		texlive-suppose
 Version:	59281
-Release:	1
+Release:	2
 Summary:	Abbreviate the word "Suppose"
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/suppose
