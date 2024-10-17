@@ -3,7 +3,7 @@ Version:	59281
 Release:	2
 Summary:	Abbreviate the word "Suppose"
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/suppose
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/suppose
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/suppose.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/suppose.doc.r%{version}.tar.xz
